@@ -1,3 +1,21 @@
+# Welcome!
+## About me
+✍️スタートアップでCTOやCPOとしてプロダクト立ち上げをやっています
+
+🌴**Career**
+
+NetOneSystems → GREE VPoE →LITALICO CTO→ Wealthnavi CPO→Smartdrive CTO → Every PdM / Director / Head of Product
+　博士（情報工学）
+ 
+👨‍💻経験領域
+　インターネットメディア / 教育・福祉（EdTech） / 金融（Fintech） / MaaS / IoT・センサー / モバイルゲーム / ライフサービス / ネットワークインテグレーター
+
+🔗キャリア詳細
+
+→ https://takish.notion.site/Profile-Takashi-Kishida-f630cf5ea7294ad89c4fb83aa5629c20
+
+## Skills
+### 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=takish&count_private=true&show_icons=true" />
 </a>
@@ -23,3 +41,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Languages
+
+### Web development
+
