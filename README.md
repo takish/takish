@@ -4,7 +4,7 @@
 
 🌴**Career**
 
-NetOneSystems → GREE VPoE → LITALICO CTO → Wealthnavi CPO → Smartdrive CTO → Every MAMADAYS Head of Product 　博士（情報工学）
+グリー執行役員VPoE→LITALICO執行役員CTO→ウェルスナビ執行役員CPO→スマートドライブCTO→エブリー執行役員カンパニー長→ 技術顧問・社外CTO | AI / エンジニアリング/プロダクトグロース/ 組織作り / 博士（情報工学）
  
 👨‍💻経験領域
 　インターネットメディア / 教育・福祉（EdTech） / 金融（Fintech） / MaaS / IoT・センサー / モバイルゲーム / ライフサービス / ネットワークインテグレーター
