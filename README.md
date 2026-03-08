@@ -18,14 +18,6 @@ AI / エンジニアリング / プロダクトグロース / 組織作り / 博
 
 ---
 
-### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takish&count_private=true&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takish&count_private=true&hide=c,html&theme=transparent&hide_border=true&layout=compact)
-
----
-
 ### Projects
 
 #### 🎮 Games & Tools
