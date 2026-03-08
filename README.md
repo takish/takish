@@ -42,7 +42,20 @@ Here are some ideas to get you started:
 -->
 
 
-### Languages
+## Projects
 
-### Web development
+### 🎮 Games & Tools
+| Project | Description |
+|---------|-------------|
+| [flappy-bird-tui](https://github.com/takish/flappy-bird-tui) | ターミナルで遊べるFlappy Bird（Go製TUIゲーム） |
+| [git-trainer](https://github.com/takish/git-trainer) | Git/GitHubの基本操作を安全な疑似環境で学べるTUIゲーム |
+| [packet-monitor-pcap](https://github.com/takish/packet-monitor-pcap) | libpcapベースのクロスプラットフォームパケットモニター（Linux + macOS） |
+| [homebrew-tap](https://github.com/takish/homebrew-tap) | Homebrew tap（flappy-bird-tui等のインストール用） |
+
+### 🌐 Web Services
+| Service | Description |
+|---------|-------------|
+| [meequs.com](https://meequs.com/) | MEEQUS プロダクトLP |
+| [Emoji Studio](https://emoji.meequs.com/) | アニメーション絵文字生成ツール（Slack連携対応） |
+| [DotCat](https://cat-play.meequs.com/) | 猫のためのインタラクティブなドット玩具アプリ |
 
