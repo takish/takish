@@ -24,7 +24,7 @@ AI / エンジニアリング / プロダクトグロース / 組織作り / 博
 
 | Service | Description |
 |---------|-------------|
-| [meequs.com](https://meequs.com/) | MEEQUS プロダクトLP |
+| [meequs.com](https://meequs.com/) | MEEQUS（ミークス） プロダクトLP |
 | [Emoji Studio](https://emoji.meequs.com/) | アニメーション絵文字生成ツール（Slack連携対応） |
 | [DotCat](https://cat-play.meequs.com/) | 猫のためのインタラクティブなドット玩具アプリ |
 
