@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="485" viewBox="0 0 840 485" role="img" aria-label="takish のプロフィール: Takashi Kishida、CTO / CPO。グリー、LITALICO、ウェルスナビ、SmartDrive、エブリーを経て、現在は社外CTO・技術顧問。">
+<style>
+text{font-family:ui-monospace, "SF Mono", Menlo, Consolas, "Hiragino Sans", "Noto Sans CJK JP", monospace;font-size:14px;white-space:pre}
+.f{fill:#e6edf3}.d{fill:#7d8590}.p{fill:#56d364}.a{fill:#79c0ff}.r{fill:#e3b341}
+.cur{fill:#e6edf3;animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="839" height="484" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 10.5a10 10 0 0 1 10-10h819a10 10 0 0 1 10 10V38H0.5z" fill="#161b22"/>
+<line x1="0.5" y1="38.5" x2="839.5" y2="38.5" stroke="#30363d"/>
+<circle cx="22" cy="20" r="5.5" fill="#30363d"/><circle cx="42" cy="20" r="5.5" fill="#30363d"/><circle cx="62" cy="20" r="5.5" fill="#30363d"/>
+<text x="420" y="24" text-anchor="middle" class="d" style="font-size:12px">takish — zsh</text>
+<text x="32" y="74" class="p">takish@github</text>
+<text x="150" y="74" class="a">~</text>
+<text x="172" y="74" class="f">% whoami</text>
+<text x="32" y="99" class="f">Takashi Kishida</text>
+<text x="190" y="99" class="d">CTO / CPO  ·  博士（情報工学）</text>
+<text x="32" y="149" class="p">takish@github</text>
+<text x="150" y="149" class="a">~</text>
+<text x="172" y="149" class="f">% cat career.log</text>
+<text x="32" y="174" class="d">2009</text>
+<text x="88" y="174" class="f">グリー</text>
+<text x="318" y="174" class="r">執行役員 VPoE</text>
+<text x="32" y="199" class="d">2015</text>
+<text x="88" y="199" class="f">LITALICO</text>
+<text x="318" y="199" class="r">執行役員 CTO</text>
+<text x="32" y="224" class="d">2019</text>
+<text x="88" y="224" class="f">ウェルスナビ</text>
+<text x="318" y="224" class="r">執行役員 CPO</text>
+<text x="32" y="249" class="d">2020</text>
+<text x="88" y="249" class="f">SmartDrive</text>
+<text x="318" y="249" class="r">CTO</text>
+<text x="32" y="274" class="d">2020</text>
+<text x="88" y="274" class="f">エブリー</text>
+<text x="318" y="274" class="r">執行役員 カンパニー長</text>
+<text x="32" y="299" class="d">2023</text>
+<text x="88" y="299" class="f">社外CTO・技術顧問</text>
+<text x="318" y="299" class="r">AI活用の開発支援</text>
+<text x="32" y="324" class="d">2025</text>
+<text x="88" y="324" class="f">ブーストコンサルティング</text>
+<text x="318" y="324" class="r">技術フェロー</text>
+<text x="32" y="374" class="p">takish@github</text>
+<text x="150" y="374" class="a">~</text>
+<text x="172" y="374" class="f">% meequs --status</text>
+<text x="32" y="399" class="f">代表1名 + AIエージェントのチームで、40以上のプロダクトを開発・公開中</text>
+<text x="32" y="449" class="p">takish@github</text>
+<text x="150" y="449" class="a">~</text>
+<text x="172" y="449" class="f">%</text>
+<rect x="191" y="435" width="9" height="17" class="cur"/>
+</svg>
